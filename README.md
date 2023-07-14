@@ -19,8 +19,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 git clone https://github.com/YourUsername/NLP-FinHeadlines-MoodTracker.git
 
-2. Install the required dependencies. You can use the following command:
-pip install -r requirements.txt
+2. Install the required dependencies.
 
 3. Preprocess the data and train the sentiment analysis model using the provided notebook or scripts.
 
