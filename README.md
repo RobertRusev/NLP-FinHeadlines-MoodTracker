@@ -50,5 +50,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at robert.rusev@yahoo.com (mailto:robert.rusev@yahoo.com).
+If you have any questions or suggestions, feel free to contact me at robert.rusev@yahoo.com .
 
